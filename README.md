@@ -59,10 +59,10 @@ A four-layer automated system:
 
 - Login system with Admin and Basic User access levels
 - VBA Submit button saves records automatically
-- Smart duplicate detection — same Number + Course updates existing record
+- Smart duplicate detection-same Number + Course updates existing record
 - New course entries insert directly below existing trainee rows
 - Average Score calculated across all course rows per trainee
-- Performance Level assigned automatically — Excellent / Competent / Needs Improvement
+- Performance Level assigned automatically-Excellent / Competent / Needs Improvement
 - Validation prevents Recruits from entering Cadet-only scores
 - Validation prevents Cadets from being assigned Recruit-only companies
 
@@ -70,15 +70,15 @@ A four-layer automated system:
 
 ## Dashboard -Page 1: Training Performance
 
-![Recruits Dashboard](Confidential)
-![Cadets Dashboard](Confidential)
+![Recruits Dashboard]|Confidential)
+![Cadets Dashboard]|Confidential)
 
 ---
 
 ## Dashboard -Page 2: Company Performance
 
-![Company Recruits](Confidential)
-![Company Cadets](Confidential)
+![Company Recruits]|Confidential)
+![Company Cadets]|Confidential)
 
 ---
 
