@@ -68,17 +68,17 @@ A four-layer automated system:
 
 ---
 
-## Dashboard — Page 1: Training Performance
+## Dashboard -Page 1: Training Performance
 
-![Recruits Dashboard](docs/Page1_Recruits.png)
-![Cadets Dashboard](docs/Page1_Cadets.png)
+![Recruits Dashboard](Confidential)
+![Cadets Dashboard](Confidential)
 
 ---
 
-## Dashboard — Page 2: Company Performance
+## Dashboard -Page 2: Company Performance
 
-![Company Recruits](docs/Page2_Recruits.png)
-![Company Cadets](docs/Page2_Cadets.png)
+![Company Recruits](Confidential)
+![Company Cadets](Confidential)
 
 ---
 
