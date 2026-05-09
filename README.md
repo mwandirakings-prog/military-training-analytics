@@ -1,10 +1,8 @@
-# military-training-analytics
-End-to-End Military Training Analytics and Decision Support System using Excel VBA and Power BI
 # Military Training Analytics and Decision Support System
 
 **Tools:** Microsoft Excel (VBA) | Microsoft Power BI  
-**Author:** AM 21657 Pte Kings Mwandira  
-**Status:** Complete and Deployed
+**Author:** Kings Mwandira  
+**Status:** Complete and Deployable
 
 ---
 
@@ -115,6 +113,5 @@ A four-layer automated system:
 ## Author
 
 **Kings Mwandira**  
-Data Analyst | Business Intelligence Analyst | Military Professional  
-Malawi Defence Force — AM 21657  
+Data Analyst | Business Intelligence Analyst   
 mwandirakings@email.com
